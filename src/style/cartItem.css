@@ -1,0 +1,18 @@
+.cart-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .cart-item h4 {
+    margin-bottom: 5px;
+  }
+  
+  .cart-item p {
+    margin: 0;
+  }
+  
+  .remove-button {
+    color: #ff0000;
+    cursor: pointer;
+  }
+  
